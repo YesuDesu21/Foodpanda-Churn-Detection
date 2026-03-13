@@ -1,0 +1,1 @@
+The goal of this project is to use techniques such as content-based filtering to give food recommendation to users.
