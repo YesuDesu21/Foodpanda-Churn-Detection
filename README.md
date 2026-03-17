@@ -1,1 +1,7 @@
-The goal of this project is to use techniques such as content-based filtering to give food recommendation to users.
+<h1>Food Recommendation Application</h1>
+
+Made by YesuDesu
+
+====================
+
+This small project will be for detecting customer churns from the application Foodpanda

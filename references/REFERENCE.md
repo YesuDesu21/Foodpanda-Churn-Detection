@@ -4,8 +4,13 @@ This document is for the list of references for this project
 
 Dataset Link: 
 Foodpanda Analysis Dataset 2025
+
 https://www.kaggle.com/datasets/nabihazahid/foodpanda-analysis-dataset-2025
-"A clean and comprehensive Foodpanda dataset with 6000 records, featuring customer demographics, orders, payments, ratings, and delivery details — ideal for analyzing customer behavior, sales trends, and churn analysis
+
+"A clean and comprehensive Foodpanda dataset with 6000 records, featuring customer demographics, orders, payments, ratings, and delivery details — ideal for analyzing customer behavior, sales trends, and churn analysis"
+
+The dataset is based on Pakistan
+
 
 Source code references:
 
