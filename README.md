@@ -9,17 +9,18 @@ This project was initially planned to be a food recommendation web application. 
 nature of the dataset is, I realized that it is not suitable for recommendation but instead predictions like binary classification.
 
 <h2>Explanatory Data Analysis</h2>
-![alt text](results/image-3.png)
 
-![alt text](results/image-4.png)
+![alt text](/results/image-3.png)
 
-![alt text](results/image-5.png)
+![alt text](/results/image-4.png)
+
+![alt text](/results/image-5.png)
 
 <h2>Feature Engineering</h2>
 For feature engineering and selection, I decided to create a new feature by taking the time duration (days) of last order date and order date.
 I also tried to multiply order frequency and quantity.
 
-![alt text](results/image-6.png)
+![alt text](/results/image-6.png)
 
 <h2>Algorithms used</h2>
 The algorithms I used for training the model and evaluation are: 
@@ -32,18 +33,18 @@ The algorithms I used for training the model and evaluation are:
 
 Results using Classification Report:
 1. Features: 'rating','delivery_status','churned'
-![alt text](results/image.png)
+![alt text](/results/image.png)
 
 2. 'rating','delivery_status','churned','payment_method'
-![alt text](results/image-1.png)
+![alt text](/results/image-1.png)
 
-3.![alt text](results/image-2.png)
+3.![alt text](/results/image-2.png)
 
 <h2>Problem</h2>
 
 After how many iterations of feature selection and validation, I found out that the data is most likely synthetic and the model cannot learn from the dataset. 
 
-Redflags:
+<b>Redflags:</b>
 1. A comment from a contributor mentioned that the dataset is equally distributed (as seen from my EDA).
 2. After how many iterations of feature selection and hyperparameter tuning, the accuracy level ranges from 49% to 55% which means that
 the model did not learn and is simply guessing.
